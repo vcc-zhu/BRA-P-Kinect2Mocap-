@@ -1,0 +1,1 @@
+To access the  raw motion dataset synchronously captured by Kinect and the NOITOM mocap system, please visit https://www.dropbox.com/sh/v9mi1hzp3y8lpt8/AACVIoZAurVpwVVuaXAmUfaga?dl=0 to download it.
